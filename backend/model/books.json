@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "if qalasining mahbusi",
+        "author": "Aleksadr dyuma",
+        "price": "100 000 so'm",
+        "categoryID": 1
+    },
+    {
+        "id": 2,
+        "name": "Sariq devni minib",
+        "author": "O'tkir Hoshimov",
+        "price": "150 000 so'm",
+        "categoryID": 1
+    },
+    {
+        "id": 3,
+        "name": "Otam qolgan dalalar",
+        "author": "To'g'ay Murod",
+        "price": "50 000 so'm",
+        "categoryID": 2
+    },
+    {
+        "id": 4,
+        "name": "Shum bola",
+        "author": "G'afur G'ulom",
+        "price": "50 000 so'm",
+        "categoryID": 2
+    },
+    {
+        "id": 5,
+        "name": "Otkir",
+        "price": "1000",
+        "author": "sfa"
+    },
+    {
+        "id": 6,
+        "name": "Diqqat",
+        "price": "200",
+        "author": "Kel Nyuport"
+    }
+]
